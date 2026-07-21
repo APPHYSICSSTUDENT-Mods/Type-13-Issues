@@ -1,0 +1,19 @@
+🛠️ Crafting Recipes & Field Manual
+To operate the Type 11 LMG, you will need to manufacture both the weapon itself and the specialized 6.5x50mm ammunition.
+1. The Single Round
+Craft the individual bullets first. This recipe yields a single Type 11 Round.
+Top Row: Empty | Iron Nugget | Empty
+Middle Row: Copper Ingot | Gunpowder | Copper Ingot
+Bottom Row: Empty | Redstone Dust | Empty
+2. The 5-Round Clip (Ammo)
+The Type 11 utilizes a hopper-feed system that strips rounds from 5-round clips. This is a shapeless recipe—simply place 5 individual rounds anywhere in the crafting grid.
+Requirements: 5x Type 11 Round
+Result: 1x Type 11 Ammo (Clip)
+3. The Type 11 Light Machine Gun
+To bypass vanilla crafting limits while maintaining the heavy iron cost of a true machine gun, you will need to forge Iron Blocks for the receiver.
+Top Row: Iron Ingot | Iron Block | Iron Block
+Middle Row: Wooden Plank (Any) | Gold Ingot | Iron Ingot
+Bottom Row: Empty | Iron Ingot | Empty
+Result: 1x Type 11 Weapon
+⚠️ OPERATOR WARNING: This weapon does not feature a safety mechanism. It fires from an open bolt. Keep your finger off the trigger when standing near pets, villagers, or valuable redstone machinery.
+

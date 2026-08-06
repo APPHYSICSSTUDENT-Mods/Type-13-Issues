@@ -25,8 +25,8 @@
 
 | Left Column | Center Column | Right Column |
 |---|---|---|
-| *(Empty)* | Iron Nugget[cite: 2] | *(Empty)* |
-| Copper Ingot[cite: 2] | Gunpowder[cite: 2] | Copper Ingot[cite: 2] |
+| *(Empty)* | Iron Nugget | *(Empty)* |
+| Copper Ingot | Gunpowder[cite: 2] | Copper Ingot[cite: 2] |
 | *(Empty)* | Redstone Dust[cite: 2] | *(Empty)* |
 
 * **Output:** 1x 6.5×50mm Round[cite: 2]

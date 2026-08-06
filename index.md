@@ -26,37 +26,37 @@
 | Left Column | Center Column | Right Column |
 |---|---|---|
 | *(Empty)* | Iron Nugget | *(Empty)* |
-| Copper Ingot | Gunpowder[cite: 2] | Copper Ingot[cite: 2] |
-| *(Empty)* | Redstone Dust[cite: 2] | *(Empty)* |
+| Copper Ingot | Gunpowder | Copper Ingot |
+| *(Empty)* | Redstone Dust | *(Empty)* |
 
-* **Output:** 1x 6.5×50mm Round[cite: 2]
+* **Output:** 1x 6.5×50mm Round
 
 ---
 
 ## 2. 5-Round Ammo Clip
-* **Type:** Shapeless Crafting[cite: 3]
-* **Instructions:** Place 5 rounds anywhere in the crafting grid[cite: 3].
+* **Type:** Shapeless Crafting
+* **Instructions:** Place 5 rounds anywhere in the crafting grid.
 
 | Slot 1 | Slot 2 | Slot 3 |
 |---|---|---|
-| 6.5×50mm Round[cite: 3] | 6.5×50mm Round[cite: 3] | 6.5×50mm Round[cite: 3] |
-| 6.5×50mm Round[cite: 3] | 6.5×50mm Round[cite: 3] | *(Empty)* |
+| 6.5×50mm Round | 6.5×50mm Round| 6.5×50mm Round |
+| 6.5×50mm Round | 6.5×50mm Round | *(Empty)* |
 | *(Empty)* | *(Empty)* | *(Empty)* |
 
-* **Output:** 1x 5-Round Ammo Clip[cite: 3]
+* **Output:** 1x 5-Round Ammo Clip
 
 ---
 
 ## 3. Type 11 Light Machine Gun
-* **Type:** Shaped Crafting[cite: 1]
+* **Type:** Shaped Crafting
 
 | Left Column | Center Column | Right Column |
 |---|---|---|
-| Iron Ingot[cite: 1] | Iron Block[cite: 1] | Iron Block[cite: 1] |
-| Any Wood Plank[cite: 1] | Gold Ingot[cite: 1] | Iron Ingot[cite: 1] |
-| *(Empty)* | Iron Ingot[cite: 1] | *(Empty)* |
+| Iron Ingot| Iron Block| Iron Block |
+| Any Wood Plank | Gold Ingot | Iron Ingot|
+| *(Empty)* | Iron Ingot| *(Empty)* |
 
-* **Output:** 1x Type 11 LMG[cite: 1]
+* **Output:** 1x Type 11 LMG
 
 ## Technical Specifications & Balance
 

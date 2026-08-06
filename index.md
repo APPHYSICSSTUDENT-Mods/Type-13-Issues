@@ -18,45 +18,45 @@
 
 ---
 
-Markdown
 # Type 11 LMG - Official Crafting Guide
 
 ## 1. 6.5×50mm Round (Single Bullet)
-* **Type:** Shaped Crafting
+* **Type:** Shaped Crafting[cite: 2]
 
-```text
-+--------------+-------------+--------------+
-|   (Empty)    | Iron Nugget |   (Empty)    |
-+--------------+-------------+--------------+
-| Copper Ingot |  Gunpowder  | Copper Ingot |
-+--------------+-------------+--------------+
-|   (Empty)    |  Redstone   |   (Empty)    |
-+--------------+-------------+--------------+
-Output: 1x 6.5×50mm Round[cite: 2]
-2. 5-Round Ammo Clip
-Type: Shapeless Crafting  
-JSON
-Plaintext
-Place any 5x 6.5×50mm Rounds anywhere in the crafting grid:
+| Left Column | Center Column | Right Column |
+|---|---|---|
+| *(Empty)* | Iron Nugget[cite: 2] | *(Empty)* |
+| Copper Ingot[cite: 2] | Gunpowder[cite: 2] | Copper Ingot[cite: 2] |
+| *(Empty)* | Redstone Dust[cite: 2] | *(Empty)* |
 
-[ Round ] [ Round ] [ Round ]
-[ Round ] [ Round ] [       ]
-[       ] [       ] [       ]
-Output: 1x 5-Round Ammo Clip  
-JSON
-3. Type 11 Light Machine Gun
-Type: Shaped Crafting  
-JSON
-Plaintext
-+--------------+------------+------------+
-|  Iron Ingot  | Iron Block | Iron Block |
-+--------------+------------+------------+
-|  Wood Plank  | Gold Ingot | Iron Ingot |
-+--------------+------------+------------+
-|   (Empty)    | Iron Ingot |   (Empty)  |
-+--------------+------------+------------+
-Output: 1x Type 11 LMG  
-JSON
+* **Output:** 1x 6.5×50mm Round[cite: 2]
+
+---
+
+## 2. 5-Round Ammo Clip
+* **Type:** Shapeless Crafting[cite: 3]
+* **Instructions:** Place 5 rounds anywhere in the crafting grid[cite: 3].
+
+| Slot 1 | Slot 2 | Slot 3 |
+|---|---|---|
+| 6.5×50mm Round[cite: 3] | 6.5×50mm Round[cite: 3] | 6.5×50mm Round[cite: 3] |
+| 6.5×50mm Round[cite: 3] | 6.5×50mm Round[cite: 3] | *(Empty)* |
+| *(Empty)* | *(Empty)* | *(Empty)* |
+
+* **Output:** 1x 5-Round Ammo Clip[cite: 3]
+
+---
+
+## 3. Type 11 Light Machine Gun
+* **Type:** Shaped Crafting[cite: 1]
+
+| Left Column | Center Column | Right Column |
+|---|---|---|
+| Iron Ingot[cite: 1] | Iron Block[cite: 1] | Iron Block[cite: 1] |
+| Any Wood Plank[cite: 1] | Gold Ingot[cite: 1] | Iron Ingot[cite: 1] |
+| *(Empty)* | Iron Ingot[cite: 1] | *(Empty)* |
+
+* **Output:** 1x Type 11 LMG[cite: 1]
 
 ## Technical Specifications & Balance
 

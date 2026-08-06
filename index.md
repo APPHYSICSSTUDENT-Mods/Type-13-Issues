@@ -31,6 +31,19 @@
 +--------------+-------------+--------------+
 |   (Empty)    |  Redstone   |   (Empty)    |
 +--------------+-------------+--------------+
+Place any 5x 6.5×50mm Rounds anywhere in the crafting grid:
+
+[ Round ] [ Round ] [ Round ]
+[ Round ] [ Round ] [       ]
+[       ] [       ] [       ]
+
++--------------+------------+------------+
+|  Iron Ingot  | Iron Block | Iron Block |
++--------------+------------+------------+
+|  Wood Plank  | Gold Ingot | Iron Ingot |
++--------------+------------+------------+
+|   (Empty)    | Iron Ingot |   (Empty)  |
++--------------+------------+------------+
 
 ## Technical Specifications & Balance
 

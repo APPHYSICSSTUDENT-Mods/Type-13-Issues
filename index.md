@@ -18,6 +18,7 @@
 
 ---
 
+Markdown
 # Type 11 LMG - Official Crafting Guide
 
 ## 1. 6.5×50mm Round (Single Bullet)
@@ -31,12 +32,22 @@
 +--------------+-------------+--------------+
 |   (Empty)    |  Redstone   |   (Empty)    |
 +--------------+-------------+--------------+
+Output: 1x 6.5×50mm Round[cite: 2]
+2. 5-Round Ammo Clip
+Type: Shapeless Crafting  
+JSON
+Plaintext
 Place any 5x 6.5×50mm Rounds anywhere in the crafting grid:
 
 [ Round ] [ Round ] [ Round ]
 [ Round ] [ Round ] [       ]
 [       ] [       ] [       ]
-
+Output: 1x 5-Round Ammo Clip  
+JSON
+3. Type 11 Light Machine Gun
+Type: Shaped Crafting  
+JSON
+Plaintext
 +--------------+------------+------------+
 |  Iron Ingot  | Iron Block | Iron Block |
 +--------------+------------+------------+
@@ -44,6 +55,8 @@ Place any 5x 6.5×50mm Rounds anywhere in the crafting grid:
 +--------------+------------+------------+
 |   (Empty)    | Iron Ingot |   (Empty)  |
 +--------------+------------+------------+
+Output: 1x Type 11 LMG  
+JSON
 
 ## Technical Specifications & Balance
 

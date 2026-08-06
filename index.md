@@ -20,13 +20,36 @@
 
 ## Crafting Recipes
 
-### 1. 6.5×50mm Round (Single Bullet)
-* **Crafting Type:** Shaped Crafting
-* **Top Row:** [ Empty ] | Iron Nugget | [ Empty ][cite: 2]
-* **Middle Row:** Copper Ingot | Gunpowder | Copper Ingot
-* **Bottom Row:** [ Empty ] | Redstone Dust | [ Empty ][cite: 2]
-* **Output:** 1x 6.5×50mm Round
+6.5×50mm Round
+Iron Nugget  
+JSON
 
+Copper Ingot  
+JSON
+
+Gunpowder[cite: 2]
+
+Copper Ingot[cite: 2]
+
+Redstone Dust[cite: 2]
+
+Type 11 LMG
+Iron Ingot  
+JSON
+
+Iron Block  
+JSON
+
+Iron Block  
+JSON
+
+Any Wood Plank[cite: 1]
+
+Gold Ingot[cite: 1]
+
+Iron Ingot[cite: 1]
+
+Iron Ingot[cite: 1]
 ---
 
 ### 2. 5-Round Ammo Clip
@@ -36,13 +59,7 @@
 
 ---
 
-### 3. Type 11 Light Machine Gun
-* **Crafting Type:** Shaped Crafting
-* **Top Row:** Iron Ingot | Iron Block | Iron Block
-* **Middle Row:** Any Wood Plank | Gold Ingot | Iron Ingot
-* **Bottom Row:** [ Empty ] | Iron Ingot | [ Empty ][cite: 1]
-* **Output:** 1x Type 11 LMG
----
+
 
 ## Technical Specifications & Balance
 

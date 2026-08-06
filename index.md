@@ -1,6 +1,6 @@
 # Type 11 LMG - Official Manual & Wiki
 
-> 💚 **Enjoying the mod?** Support development and help replace a broken family refrigerator on [Ko-fi](https://ko-fi.com/yourlink) or by following on [Modrinth]([https://modrinth.com/user/APPHYSICSSTUDENT])!
+> 💚 **Enjoying the mod?** Support development and help replace a broken family refrigerator on [Ko-fi](https://ko-fi.com/yourlink) or by following on [Modrinth](https://modrinth.com/user/APPHYSICSSTUDENT)!
 
 ---
 
@@ -70,4 +70,4 @@
 ---
 
 ## Bug Reports & Feedback
-Found a crash or balance issue? Please submit a ticket on our [GitHub Issues Tracker](https://github.com/apphysicsstudent/Type-11-LMG-Bug-Tracker/issues).
+Found a crash or balance issue? Please submit a ticket on our [GitHub Issues Tracker](https://github.com/APPHYSICSSTUDENT-Mods/Type-13-Issues/issues).

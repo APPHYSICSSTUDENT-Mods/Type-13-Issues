@@ -21,7 +21,7 @@
 # Type 11 LMG - Official Crafting Guide
 
 ## 1. 6.5×50mm Round (Single Bullet)
-* **Type:** Shaped Crafting[cite: 2]
+* **Type:** Shaped Crafting
 
 | Left Column | Center Column | Right Column |
 |---|---|---|

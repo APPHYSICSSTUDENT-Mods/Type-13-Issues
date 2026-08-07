@@ -70,5 +70,5 @@
 ---
 
 ## Bug Reports & Feedback
-Found a crash or balance issue? Please submit a ticket on our [GitHub Issues Tracker](https://github.com/APPHYSICSSTUDENT-Mods/Type-13-Issues/issues).
+Found a crash or balance issue? Please submit a ticket on our [GitHub Issues Tracker](https://github.com/APPHYSICSSTUDENT-Mods/Type-13-Issues).
 

@@ -72,12 +72,3 @@
 ## Bug Reports & Feedback
 Found a crash or balance issue? Please submit a ticket on our [GitHub Issues Tracker](https://github.com/APPHYSICSSTUDENT-Mods/Type-13-Issues/issues).
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-81D8YB77DF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-81D8YB77DF');
-</script>

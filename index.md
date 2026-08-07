@@ -1,6 +1,6 @@
 # Type 11 LMG - Official Manual & Wiki
 
-> 💚 **Enjoying the mod?** Support development and help replace a broken family refrigerator on [Ko-fi](https://ko-fi.com/yourlink) or by following on [Modrinth](https://modrinth.com/user/APPHYSICSSTUDENT)!
+> 💚 **Enjoying the mod?** Support development and help replace a broken family refrigerator on [Ko-fi](https://ko-fi.com/apphysicsstudent) or by following on [Modrinth](https://modrinth.com/user/APPHYSICSSTUDENT)!
 
 ---
 

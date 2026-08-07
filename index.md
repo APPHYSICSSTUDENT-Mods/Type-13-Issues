@@ -39,7 +39,7 @@
 
 | Slot 1 | Slot 2 | Slot 3 |
 |---|---|---|
-| 6.5×50mm Round | 6.5×50mm Round| 6.5×50mm Round |
+| 6.5×50mm Round | 6.5×50mm Round | 6.5×50mm Round |
 | 6.5×50mm Round | 6.5×50mm Round | *(Empty)* |
 | *(Empty)* | *(Empty)* | *(Empty)* |
 
@@ -52,9 +52,9 @@
 
 | Left Column | Center Column | Right Column |
 |---|---|---|
-| Iron Ingot| Iron Block| Iron Block |
-| Any Wood Plank | Gold Ingot | Iron Ingot|
-| *(Empty)* | Iron Ingot| *(Empty)* |
+| Iron Ingot | Iron Block | Iron Block |
+| Any Wood Plank | Gold Ingot | Iron Ingot |
+| *(Empty)* | Iron Ingot | *(Empty)* |
 
 * **Output:** 1x Type 11 LMG
 
@@ -71,4 +71,3 @@
 
 ## Bug Reports & Feedback
 Found a crash or balance issue? Please submit a ticket on our [GitHub Issues Tracker](https://github.com/APPHYSICSSTUDENT-Mods/Type-13-Issues).
-
